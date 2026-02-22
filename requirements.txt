@@ -1,0 +1,6 @@
+# requirements.txt — Python dependencies for FitSmart AI
+# Install all at once with: pip install -r requirements.txt
+
+flask>=3.0.0          # Web framework for Python
+anthropic>=0.30.0     # Official Anthropic Claude Python SDK
+python-dotenv>=1.0.0  # Loads .env variables into Python environment
